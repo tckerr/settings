@@ -15,15 +15,14 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
     <keyboard-shortcut first-keystroke="meta alt divide" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta slash" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta u" />
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
+  <action id="Debugger.MarkObject" />
   <action id="DecrementWindowHeight" />
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditorDeleteLine" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="EditorMatchBrace" />
   <action id="EditorMoveToPageBottomWithSelection" />
   <action id="EditorMoveToPageTopWithSelection" />
@@ -44,6 +43,8 @@
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="GotoNextBookmark" />
+  <action id="GotoPreviousBookmark" />
   <action id="Graph.ActualSize">
     <keyboard-shortcut first-keystroke="meta divide" />
   </action>
@@ -63,10 +64,6 @@
   <action id="ReSharperGotoContainingDeclaration" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt enter" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="f" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta f" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="d" />
-    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="meta alt l" />
   </action>
   <action id="ResizeToolWindowDown" />
@@ -80,8 +77,13 @@
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ToggleBookmark" />
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="UsageGrouping.FlattenModules" />
+  <action id="Vcs.ReformatCommitMessage">
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
 </keymap>

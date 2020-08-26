@@ -29,5 +29,6 @@
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
