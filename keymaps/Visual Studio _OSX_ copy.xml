@@ -56,6 +56,7 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="NextWindow" />
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
@@ -78,6 +79,9 @@
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="UsageGrouping.FlattenModules" />
 </keymap>
