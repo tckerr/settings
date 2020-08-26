@@ -4,14 +4,15 @@
     <property name="created">2020-08-25T21:39:41</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-08-25T22:04:58</property>
+    <property name="modified">2020-08-26T12:04:01</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="" />
+    <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
@@ -21,13 +22,12 @@
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
-    <option name="MODIFIED_LINES_COLOR" value="" />
+    <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RIGHT_MARGIN_COLOR" value="32302f" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="TEARLINE_COLOR" value="665c54" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -308,7 +308,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="83a598" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -370,7 +370,6 @@
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -838,13 +837,6 @@
         <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
-    <option name="RUNTIME_ERROR">
-      <value>
-        <option name="EFFECT_COLOR" value="92d05c" />
-        <option name="ERROR_STRIPE_COLOR" value="9e2927" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
         <option name="FOREGROUND" value="928374" />
@@ -890,13 +882,6 @@
         <option name="FOREGROUND" value="f9f5d7" />
       </value>
     </option>
-    <option name="ReSharper.HINT">
-      <value>
-        <option name="EFFECT_COLOR" value="92d05c" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="fb4934" />
@@ -954,13 +939,6 @@
         <option name="FOREGROUND" value="b8bb26" />
       </value>
     </option>
-    <option name="SUGGESTION">
-      <value>
-        <option name="EFFECT_COLOR" value="92d05c" />
-        <option name="ERROR_STRIPE_COLOR" value="1a6dce" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d5c4a1" />
@@ -981,7 +959,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="79795b" />
+        <option name="FOREGROUND" value="b8bb26" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="a74c0" />
       </value>
@@ -1032,6 +1010,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fb4934" />
+        <option name="BACKGROUND" value="531c1c" />
         <option name="EFFECT_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
