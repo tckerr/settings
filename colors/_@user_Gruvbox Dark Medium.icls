@@ -4,7 +4,7 @@
     <property name="created">2020-08-25T21:39:41</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-08-27T08:09:49</property>
+    <property name="modified">2020-08-27T08:57:32</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -507,8 +507,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="4f1818" />
         <option name="EFFECT_COLOR" value="fb4934" />
-        <option name="ERROR_STRIPE_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -1009,6 +1009,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="4f1818" />
         <option name="EFFECT_COLOR" value="fb4934" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
