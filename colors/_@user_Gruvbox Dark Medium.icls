@@ -4,7 +4,7 @@
     <property name="created">2020-08-25T21:39:41</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-08-26T14:19:40</property>
+    <property name="modified">2020-08-27T08:09:49</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -12,22 +12,24 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="79740e" />
+    <option name="ADDED_LINES_COLOR" value="" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="282828" />
+    <option name="DELETED_LINES_COLOR" value="" />
     <option name="DOCUMENTATION_COLOR" value="32302f" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
     <option name="GUTTER_BACKGROUND" value="282828" />
     <option name="INDENT_GUIDE" value="665c54" />
     <option name="LINE_NUMBERS_COLOR" value="928374" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
-    <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="MODIFIED_LINES_COLOR" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="32302f" />
     <option name="SELECTED_INDENT_GUIDE" value="f8e1aa" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
     <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
