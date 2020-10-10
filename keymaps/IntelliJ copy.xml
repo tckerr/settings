@@ -2,6 +2,10 @@
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
@@ -28,4 +32,5 @@
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
