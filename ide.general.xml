@@ -15,7 +15,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.require.transaction.for.model.changes" value="false" />
     <entry key="search.everywhere.pattern.checking" value="false" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
@@ -28,6 +27,5 @@
     <entry key="vcs.log.show.diff.preview.as.editor.tab" value="true" />
     <entry key="search.everywhere.settings" value="true" />
     <entry key="light.edit.file.open.enabled" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
