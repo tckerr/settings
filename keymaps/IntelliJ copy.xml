@@ -33,13 +33,18 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="ReplaceInPath" />
+  <action id="RiderTypeHierarchy.BaseOnThisType" />
   <action id="RiderUnitTestRunContextTwAction">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.UpdateProject" />
 </keymap>
