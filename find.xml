@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Selected Files And Folders" />
-    <option name="defaultScopeName" value="Selected Files And Folders" />
+    <option name="customScope" value="Project 'divinary'" />
+    <option name="defaultScopeName" value="Project 'divinary'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
+    <option name="SEARCH_SCOPE" value="Project 'divinary'" />
   </component>
 </application>
