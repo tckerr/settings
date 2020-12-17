@@ -2,6 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aseprite" type="PLAIN_TEXT" />
+      <mapping ext="godot" type="TSCN" />
+      <mapping ext="tres" type="TSCN" />
+      <mapping ext="import" type="TSCN" />
+      <mapping ext="cfg" type="TSCN" />
     </extensionMap>
   </component>
 </application>
