@@ -4,11 +4,11 @@
     <property name="created">2020-08-25T21:39:41</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2020.2.1.0.0</property>
-    <property name="modified">2020-08-31T09:56:24</property>
+    <property name="modified">2020-12-14T19:43:51</property>
     <property name="originalScheme">Gruvbox Dark Medium</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="" />
