@@ -19,6 +19,7 @@
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoSymbol" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
@@ -29,6 +30,9 @@
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="v" />
+  </action>
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
