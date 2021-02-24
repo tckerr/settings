@@ -2033,6 +2033,11 @@
                       <FeaturePluginData displayName="Xamarin.Mac" pluginName="IDEA CORE" pluginId="com.intellij" />
                     </value>
                   </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
                   <entry key="godotConfiguration">
                     <value>
                       <FeaturePluginData displayName="Godot" pluginName="GDScript" pluginId="gdscript" />
