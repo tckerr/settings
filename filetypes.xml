@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="18">
-    <extensionMap>
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping ext="aseprite" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
