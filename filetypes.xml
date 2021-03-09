@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
       <mapping pattern="whatever" type="TypeScript" />
     </extensionMap>
