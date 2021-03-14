@@ -19,10 +19,16 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt a" second-keystroke="t" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
   <action id="BuildSolutionAction">
     <keyboard-shortcut first-keystroke="ctrl f9" />
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="CheckinProject" />
   <action id="ChooseDebugConfiguration">
     <mouse-shortcut keystroke="shift alt button5" />
   </action>
@@ -39,7 +45,13 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="EditorDeleteLine" />
+  <action id="EditorCodeBlockEnd">
+    <keyboard-shortcut first-keystroke="ctrl alt back_slash" />
+  </action>
+  <action id="EditorCodeBlockStart" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
   <action id="ExtractInterface">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="t" />
   </action>
@@ -47,6 +59,11 @@
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="m" />
   </action>
   <action id="FileStructurePopup" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
