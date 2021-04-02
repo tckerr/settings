@@ -1,6 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="REFORMAT_ON_PASTE" value="1" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -24,7 +24,8 @@
     </option>
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
 </application>
