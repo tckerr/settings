@@ -67,6 +67,11 @@
                       <FeaturePluginData displayName="Standalone Player" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                    </value>
+                  </entry>
                   <entry key="UNITY_DEBUG_RUN_CONFIGURATION">
                     <value>
                       <FeaturePluginData displayName="Attach to Unity Editor" pluginName="Unity Support" pluginId="com.intellij.resharper.unity" bundled="true" />
@@ -77,11 +82,6 @@
                       <FeaturePluginData displayName="UWP" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="XSLT">
-                    <value>
-                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="XamarinIOSProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
@@ -90,6 +90,16 @@
                   <entry key="XamarinMacProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.Mac" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="docker-deploy">
+                    <value>
+                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="godotConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Godot" pluginName="GDScript" pluginId="gdscript" />
                     </value>
                   </entry>
                 </map>
