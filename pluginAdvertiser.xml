@@ -82,6 +82,11 @@
                       <FeaturePluginData displayName="UWP" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="XSLT">
+                    <value>
+                      <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="XamarinIOSProject">
                     <value>
                       <FeaturePluginData displayName="Xamarin.iOS" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
