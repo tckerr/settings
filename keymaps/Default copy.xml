@@ -106,6 +106,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="NewScratchBuffer">
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <keyboard-shortcut first-keystroke="f1" />
