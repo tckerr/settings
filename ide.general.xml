@@ -23,5 +23,6 @@
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
