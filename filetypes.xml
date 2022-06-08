@@ -7,9 +7,9 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="rgd" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
+      <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="whatever" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
