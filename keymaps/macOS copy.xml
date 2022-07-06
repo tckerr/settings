@@ -13,12 +13,16 @@
     <keyboard-shortcut first-keystroke="meta alt v" />
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="v" />
   </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta r" second-keystroke="r" />
   </action>
   <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="Svn.RefreshWorkingCopies" />
   <action id="Vcs.Log.Refresh" />
