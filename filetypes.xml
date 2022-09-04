@@ -4,18 +4,14 @@
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".env-prod" type="PLAIN_TEXT" />
-      <mapping ext="rgd" type="PLAIN_TEXT" />
       <mapping ext="gpg" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping pattern="whatever" type="TypeScript" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="whatever" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
