@@ -1,7 +1,42 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+  </action>
+  <action id="EditorCodeBlockEnd" />
+  <action id="EditorCodeBlockStart" />
+  <action id="ExtractInterface">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="t" />
+  </action>
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="m" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+  <action id="Inline">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="i" />
+  </action>
+  <action id="IntroduceField">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="f" />
+  </action>
+  <action id="IntroduceParameter" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="v" />
+  </action>
+  <action id="Move" />
   <action id="Refactorings.QuickListPopupAction">
-    <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="r" />
+  </action>
+  <action id="Replace" />
   <action id="ReplaceInPath" />
+  <action id="RiderCoveringTestsPopupRunAllAction" />
+  <action id="RiderUnitTestRunContextTwAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="UsageFiltering.ReadAccess" />
 </keymap>
